@@ -1,5 +1,3 @@
-# Excel-and-Tableau-Project
-Wealth of nations data set
 # Wealth of Nations Data Analysis Project
 
 This repository contains an analysis of the "Wealth of Nations" dataset using Excel and Tableau. The dataset provides information on GDP, life expectancy, and smartphone usage in different countries.
