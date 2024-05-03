@@ -54,7 +54,7 @@ This repository contains an analysis of the "Wealth of Nations" dataset using Ex
 
 ---
 
-![Tableau Dashboard]([https://public.tableau.com/app/profile/arnold.mavunga/viz/LifeExpectancyDashboard_17123520915570/Dashboard)](https://public.tableau.com/views/LifeExpectancyDashboard_17123520915570/Dashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+![Tableau Dashboard](https://public.tableau.com/views/LifeExpectancyDashboard_17123520915570/Dashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Data Source
 
