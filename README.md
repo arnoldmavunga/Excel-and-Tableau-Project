@@ -1,2 +1,2 @@
-# Excel-and-Tableu-Project
+# Excel-and-Tableau-Project
 Wealth of nations data set
