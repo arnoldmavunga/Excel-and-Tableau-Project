@@ -6,7 +6,7 @@ This repository contains an analysis of the "Wealth of Nations" dataset using Ex
 
 
 ## Data Source
-The "Wealth of Nations" dataset used in this project is publicly available and can be found 
+The "Wealth of Nations" dataset used in this project is publicly available and can be found online.
 
 ## How to Use
 To replicate the analysis:
@@ -62,7 +62,7 @@ This repository contains an analysis of the "Wealth of Nations" dataset using Ex
 
 ---
 
-The "Wealth of Nations" dataset used in this project is publicly available and can be found [here].
+The "Wealth of Nations" dataset used in this project is publicly available and can be found online.
 
 ## How to Use
 
